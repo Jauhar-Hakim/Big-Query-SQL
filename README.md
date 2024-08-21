@@ -13,6 +13,7 @@ LIMIT %d
 '''%(sample_count)).to_dataframe()
 df_citibike_station
 ```
+![image](https://github.com/user-attachments/assets/204a74cf-e858-40ad-955a-42dbe8e23f06)
 
 # Citibike Trip
 
@@ -25,4 +26,4 @@ LIMIT %d
 '''%(sample_count)).to_dataframe()
 df_citibike_trips
 ```
-
+![image](https://github.com/user-attachments/assets/9df11ea4-bc44-4d7f-a390-2ef27fa6de1a)
